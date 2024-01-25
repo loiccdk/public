@@ -1,7 +1,7 @@
 {
     "name": "Carré bleu sur fond bleu",
     "description": "Une oeuvre d'art moderne défiant les standards établis, et époustouflante d'inventivité.",
-    "image": "https://ipfs.io/ipfs/QmR5DiZDCT8HAqD851sxpatgHCFTsgJs1VhDffnu73t9vP?filename=carre_bleu.png",
+    "image": "https://github.com/loiccdk/public/blob/9fa0ccc94561385bf8adb724ed93c14103813323/carre_bleu.png",
     "attributes": [
         {
             "trait_type": "Color",
